@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently work on backend software development<br>I'm currently learning Swift<br>Ask me about Swift
+I'm currently work on mobile software development<br>I'm currently learning Swift<br>Ask me about Swift
 
 
 ## 🌐 Socials:
